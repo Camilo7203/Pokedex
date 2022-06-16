@@ -30,7 +30,7 @@ body{
 }
 
 
-.button {
+.button{
     display: block;
     margin: 10px auto;
     color: #ffffff;
@@ -46,6 +46,6 @@ body{
     border: solid #003566 1px;
     background: #001d3d;
 }
-.button:hover {
+.button:hover{
     background: #223d59;
 }
